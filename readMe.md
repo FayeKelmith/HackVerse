@@ -17,15 +17,15 @@
         <li> <img  src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" style="width:50px"alt="Python"/></li>
         <li style="font-size: 32px;"> 🦜️🔗 </li>
         <li> <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" style="width:50px" alt="OpenAI"/></li>   
-         <li> <img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" style="width:60px" alt="Docker"/></li>   
+        <li> <img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" style="width:60px" alt="Docker"/></li>   
     </ul>
 </div>
 
 <div>
     <h2> Snapshots </h2>
-    <img src="./store/landing.png" alt="Landing Page"/>
-    <img src="./store/dockerGPT.png" alt="Docker GPT"/>
-    <img src="./store/decoder.png" alt="Software GPT"/>
+    <img src="./store/landing1.png" alt="Landing Page"/>
+    <img src="./store/landing2.png" alt="Landing Page 2"/>
+    <img src="./store/gpt.png" alt="Software GPT"/>
 </div>
 
 <div>
@@ -42,7 +42,7 @@
 </div>
 <div>
     <h2 style="color:red">Note:</h2>
-    <p> Given that this project is built to access the docker daemon on your computer and run commands, it is recommended to run this project on your local machine.</br> That is why we did not deploy this application on the internet. Else we would have to either run it on the daemon of the remote server (security concerns arise) or <span style="color:red"> Docker-In-Docker</span>. Maybe at an upgrade.</span>
+    <p> Given that this project is built to access the docker daemon on your computer and run commands, it is recommended to run this project on your local machine.</br> That is why we did not deploy this application on the internet. Else we would have to either run it on the daemon of the remote server (security concerns arise) or <span style="color:red"> Docker-In-Docker</span>.And that is exactly what we have done here!</span>
 
 </div>
 <div>
