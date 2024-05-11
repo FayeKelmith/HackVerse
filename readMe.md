@@ -40,11 +40,11 @@
         <code> streamlit run main.py </code>
     </ul>
 </div>
-<div>
-    <h2 style="color:red">Note:</h2>
-    <p> Given that this project is built to access the docker daemon on your computer and run commands, it is recommended to run this project on your local machine.</br> That is why we did not deploy this application on the internet. Else we would have to either run it on the daemon of the remote server (security concerns arise) or <span style="color:red"> Docker-In-Docker</span>.And that is exactly what we have done here!</span>
 
-</div>
+> Note:
+> Given that this project is built to access the docker daemon on your computer and run commands, it is recommended to run this project on your local machine.
+> That is why we did not deploy this application on the internet. Else we would have to either run it on the daemon of the remote server (security concerns arise) or **Docker-In-Docker**.And that is exactly what we have done here!
+
 <div>
     <h2> Contributors </h2>
     <ul style="list-style-type: none;">
